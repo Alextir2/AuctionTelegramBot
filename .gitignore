@@ -1,0 +1,30 @@
+*.exe
+*.dll
+.vs
+bin/
+obj/
+*.user
+
+AuctionBot.Db/obj/
+AuctionBot.Db/bin/
+
+AuctionBot.Web/obj/
+AuctionBot.Web/bin/
+
+.idea/
+
+# Исключить все файлы с расширениями изображений
+
+AuctionBot.Web/wwwroot/
+*.jpg
+*.jpeg
+*.png
+
+# Исключить все файлы видео
+*.mp4
+*.avi
+*.mov
+
+# Исключить все файлы аудио
+*.mp3
+*.wav

@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AuctionBot.Web", "AuctionBot.Web\AuctionBot.Web.csproj", "{9E168E55-F01B-40FA-BBFA-727304F03A7F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AuctionBot.Db", "AuctionBot.Db\AuctionBot.Db.csproj", "{CC099F08-7839-453A-BC47-F8D34F76FB07}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AuctionBot.Repository", "AuctionBot.Repository\AuctionBot.Repository.csproj", "{B1C31A3B-D70F-44E2-870D-056402517246}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9E168E55-F01B-40FA-BBFA-727304F03A7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E168E55-F01B-40FA-BBFA-727304F03A7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E168E55-F01B-40FA-BBFA-727304F03A7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E168E55-F01B-40FA-BBFA-727304F03A7F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC099F08-7839-453A-BC47-F8D34F76FB07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC099F08-7839-453A-BC47-F8D34F76FB07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC099F08-7839-453A-BC47-F8D34F76FB07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC099F08-7839-453A-BC47-F8D34F76FB07}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B1C31A3B-D70F-44E2-870D-056402517246}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1C31A3B-D70F-44E2-870D-056402517246}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1C31A3B-D70F-44E2-870D-056402517246}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1C31A3B-D70F-44E2-870D-056402517246}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
